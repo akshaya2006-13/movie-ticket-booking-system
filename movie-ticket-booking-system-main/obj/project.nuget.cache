@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "HAGygqeJgrI=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\thota\\OneDrive\\Desktop\\movie-ticket-booking-system-main\\movie-ticket-booking-system-main\\MovieTicketBookingSystem.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\thota\\.nuget\\packages\\microsoft.win32.systemevents\\6.0.0\\microsoft.win32.systemevents.6.0.0.nupkg.sha512",
+    "C:\\Users\\thota\\.nuget\\packages\\qrcoder\\1.8.0\\qrcoder.1.8.0.nupkg.sha512",
+    "C:\\Users\\thota\\.nuget\\packages\\system.drawing.common\\6.0.0\\system.drawing.common.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
